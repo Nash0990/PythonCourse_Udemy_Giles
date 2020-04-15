@@ -54,5 +54,5 @@ Type:      builtin_function_or_method
 ```
 
 
-Refer to script `/home/lifecell/PleaseLearn/Python/Udemy_BootCamp2020/Workingks/Section3_04042020.py`
+Refer to script `Section3_04042020.py`
 
